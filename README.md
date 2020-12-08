@@ -4,6 +4,6 @@ Use HOG descriptors to detect people in a short clip (source: Video by Life On S
 
 Run cameo.py
 
-Still practicing hoping to creating and train custom object detector in future
+Still practicing hoping to create and train custom object detector in future
 
 ![alt text](https://github.com/ongzizhao/Basic-human-detector-using-OpenCV/blob/main/screenshot.png)
